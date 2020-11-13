@@ -29,7 +29,7 @@ Syntax highlighted code block
 
 
 Inline-style: 
-![alt text](https://github.com/sowjan95/kingsbridge/FIGURE1.png "Logo Title Text 1")
+![alt text](https://github.com/sowjan95/kingsbridge/FIGURE 1.png "Logo Title Text 1")
 
 
 
