@@ -26,6 +26,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+
+
+Inline-style: 
+![alt text](https://github.com/sowjan95/kingsbridge/FIGURE1.png "Logo Title Text 1")
+
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 <dl>
