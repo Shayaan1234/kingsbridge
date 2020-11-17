@@ -101,19 +101,22 @@ The three most important qualities when ranking Airbnb bookings in the Bronx Tea
 
 
 ```markdown
-
 stats for listings in my_bronx:
 count             225
 unique              4
 top       Kingsbridge
 freq               70
 Name: neighbourhood, dtype: object
+
 stats for listings in bronx:
 count            1091
 unique             48
 top       Kingsbridge
 freq               70
 Name: neighbourhood, dtype: object
+```
+
+I decided to make a graph to visualize to visually see the percentage of the listings that are in Kingsbridge, compared to the other neighborhoods in my_bronx.
 
 You can use the [editor on GitHub](https://github.com/Sowjan95/kingsbridge/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
