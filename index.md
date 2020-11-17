@@ -129,7 +129,7 @@ I decided to make a graph to visualize to visually see the percentage of the lis
 
 **Figure 1**
 
-According to this graph, Allerton has the smallest percentage of listings in `my_bronx`. My first hypothesis for this was that Allerton covered a smaller area, compared to the Kingbridge, since Kingsbridge covers 1.45 square miles, with 49,208.93 people per square mile, which gives it a population of 71,360 (HC2). 
+According to **Figure 1**, Allerton has the smallest percentage of listings in `my_bronx`. My first hypothesis for this was that Allerton covered a smaller area, compared to the Kingbridge, since Kingsbridge covers 1.45 square miles, with 49,208.93 people per square mile, which gives it a population of 71,360 (HC2). 
 
 However, I then found out that Allerton actually had a larger area than Kingsbridge (2.34 square miles), and had a greater population (103,732), albeit with (44,413.52 people per square mile). Therefore, it may be probable that there are fewer listings because the houses and apartments are more spread out, but then again, Allerton may not have as many rent-friendly properties as Kingsbridge to begin with. After all, out of the 29,973 housing units available in Kingsbridge, 67.86% of the occupied units are renter-occupied, while 90.01%  of the vacant units are either for rent or for some other purpose (HC2). Of course, we have no data that shows how many of these vacancies are reserved for airbnb, but they are still interesting to consider.
 
@@ -139,6 +139,7 @@ However, I then found out that Allerton actually had a larger area than Kingsbri
 
 Afterwards, I decided to compare the prices of the listings in the neighborhood to see if prices reflected the number of listings and it seems that it did. Kingsbridge had the highest sum of prices while Allerton had the lowest. However, Concourse and Fordham had sums that were very near each other, even though the number of listings they had didn’t seem as close. I made boxplots for each neighborhood as well to see if their prices (min, max, mean, etc.) are similar to each other as well.
 
+<img src="Figure 3.1.png" height=240 width=320>
 ![Figure 3.1](FIGURE 3.1.png)
 ![Figure 3.2](FIGURE 3.2.png)
 ![Figure 3.3](FIGURE 3.3.png)
@@ -162,24 +163,6 @@ Finally, I decided to also compare the total number of reviews in each neighborh
 
 Looking further, we also see that the number of reviews that Kingsbridge had was smaller than Concourse, which had the second smallest number of listings. Again, although there is no real way of knowing for sure, since Concourse scored the lowest for safety in HC3, there is a possibility that some of the reviews might mention safety concerns.
 
-
- 
-  
-  
-
-### Markdown
-You can use the [editor on GitHub](https://github.com/Sowjan95/kingsbridge/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-
-
-![Image of Pie Chart](https://github.com/Sowjan95/kingsbridge/blob/gh-pages/FIGURE%201.png)
 
 
 
