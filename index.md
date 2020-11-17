@@ -127,7 +127,7 @@ freq               70
 Name: neighbourhood, dtype: object
 ```
 
-I decided to make a graph to visualize to visually see the percentage of the listings that are in Kingsbridge, compared to the other neighborhoods in `my_bronx`.
+I decided to make a graph to visualize the percentage of the listings that are in Kingsbridge, compared to the other neighborhoods in `my_bronx`.
 
 **Figure 1:** _Pie Chart Comparing Listing Percentages_
 
@@ -146,10 +146,10 @@ Afterwards, I decided to compare the prices of the listings in the neighborhood 
 
 **Figure 3.1:** _Box Plots Comparing Prices of Listings (My_Bronx Neighborhoods)_ 
 
-![Figure 3.1](FIGURE 3.1.png){:height="47%" width="47%"} 
-![Figure 3.2](FIGURE 3.2.png){:height="47%" width="47%"}
-![Figure 3.3](FIGURE 3.3.png){:height="47%" width="47%"} 
-![Figure 3.4](FIGURE 3.4.png){:height="47%" width="47%"}
+![Figure 3.1](FIGURE 3.1.png){:height="48%" width="48%"} 
+![Figure 3.2](FIGURE 3.2.png){:height="48%" width="48%"}
+![Figure 3.3](FIGURE 3.3.png){:height="48%" width="48%"} 
+![Figure 3.4](FIGURE 3.4.png){:height="48%" width="48%"}
 
 **Figure 3.1** shows that, although each of our neighborhoods have several outliers that throw their total sums and means off balance, they are all very similar in the prices that they have. This seems like a direct reflection of the rankings we did for them in HC3, where, although each neighborhood varied in their rankings for each category by some small detail (some got B for Transportation while others got B+), they were all very similar together, always having the same letter grade even if the + and - differed. Similarly, here, the majority of the prices seem to fall somewhere between 25 and 100, with the median being close to either 50 or 75. The outliers, on the other hand, vary quite a bit. While Concourse and Fordham have outliers that stay at or below 250, Kingsbridge’s outliers go up to 400, while Allerton surpasses even that.
 
@@ -167,9 +167,4 @@ Now, if we compare that to the prices of listings in all the Bronx neighborhoods
 Finally, I decided to also compare the total number of reviews in each neighborhood. Since Kingsbridge had the greatest number of listings, I expected it to also have the most reviews, but instead Allerton took that trophy. Of course, we have no way of knowing whether these are good reviews or bad reviews, and whether or not the abundance of reviews came from simply one or two very popular listings in Allerton, so it’s hard to know why this is the case. 
 
 Looking further, we also see that the number of reviews that Kingsbridge had was smaller than Concourse, which had the second smallest number of listings. Again, although there is no real way of knowing for sure, since Concourse scored the lowest for safety in HC3, there is a possibility that some of the reviews might mention safety concerns.
-
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
