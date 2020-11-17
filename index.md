@@ -1,4 +1,5 @@
-## Welcome to the Kingsbridge neighborhood
+## Kingsbridge, Bronx
+## ZIP Code: 10463
 
 You can use the [editor on GitHub](https://github.com/Sowjan95/kingsbridge/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
