@@ -1,5 +1,3 @@
-# Kingsbridge, Bronx
-
 ## Demographics 
 
 **ZIP Code: 10463** 
