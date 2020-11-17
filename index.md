@@ -138,7 +138,7 @@ This data shows that, although each of our neighborhoods have several outliers t
 
 **Figure 3.2** 
 
-Now, if we compare that to the prices of listings in all the Bronx neighborhoods, I think they are still quite similar. Although this box plot has a great y-axis range, the majority of the prices still seem to fall somewhere close to 100. The outliers are the ones skewing the data to make it look like all the listings are more expensive, when in fact only a handful of them are (relative to the my_bronx neighborhood prices).
+Now, if we compare that to the prices of listings in all the Bronx neighborhoods, I think they are still quite similar. Although this box plot has a great y-axis range, the majority of the prices still seem to fall somewhere close to 100. The outliers are the ones skewing the data to make it look like all the listings are more expensive, when in fact only a handful of them are (relative to the `my_bronx` neighborhood prices).
 
 **Figure 4** 
 
@@ -147,7 +147,9 @@ Finally, I decided to also compare the total number of reviews in each neighborh
 Looking further, we also see that the number of reviews that Kingsbridge had was smaller than Concourse, which had the second smallest number of listings. Again, although there is no real way of knowing for sure, since Concourse scored the lowest for safety in HC3, there is a possibility that some of the reviews might mention safety concerns.
 
 
-
+ 
+  
+  
 
 
 You can use the [editor on GitHub](https://github.com/Sowjan95/kingsbridge/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
