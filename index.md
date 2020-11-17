@@ -74,15 +74,21 @@ Airbnb Listings in 2019: 70
 
 The three most important qualities when ranking Airbnb bookings in the Bronx Team: 
 
-**Safety** (low crime rate)
-**Transportation** (accessibility to & reliability of public transportation, ease of parking)
-**Attraction/Activities** (availability of local attractions and recreational activities such as restaurants, parks, etc.)
+**1. Safety** (low crime rate) 
 
-**Kingsbridge Ranking** 
+**2. Transportation** (accessibility to & reliability of public transportation, ease of parking) 
 
-**_Overall Niche Grade: B_**
-**Safety: C** (Relatively low crime rate, but higher than national rate of crime per 100,000 residents for assault and robbery.)
-**Transportation: B+** (Ease of parking, and public transportation is available and accessible but some reviews have mentioned that it can be unreliable at times with long commutes, delays, etc.)
+**3. Attraction/Activities** (availability of local attractions and recreational activities such as restaurants, parks, etc.) 
+
+
+#### **Kingsbridge Ranking** 
+
+**_Overall Niche Grade: B_** 
+
+**Safety: C** (Relatively low crime rate, but higher than national rate of crime per 100,000 residents for assault and robbery.) 
+
+**Transportation: B+** (Ease of parking, and public transportation is available and accessible but some reviews have mentioned that it can be unreliable at times with long commutes, delays, etc.) 
+
 **Attractions/Activities: A** (Has an urban city feel with good outside spaces, proximity to bars, restaurants, parks, etc. and has nice views.)
 
 
