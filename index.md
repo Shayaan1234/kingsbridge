@@ -121,7 +121,7 @@ Name: neighbourhood, dtype: object
 I decided to make a graph to visualize to visually see the percentage of the listings that are in Kingsbridge, compared to the other neighborhoods in `my_bronx`.
 
 
-<img src="Figure 1.png">
+<img src="https://github.com/Sowjan95/kingsbridge/blob/gh-pages/FIGURE%201.png">
 **Figure 1**
 
 According to this graph, Allerton has the smallest percentage of listings in `my_bronx`. My first hypothesis for this was that Allerton covered a smaller area, compared to the Kingbridge, since Kingsbridge covers 1.45 square miles, with 49,208.93 people per square mile, which gives it a population of 71,360 (HC2). 
