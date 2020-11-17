@@ -93,11 +93,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-
-
-Inline-style: 
 ![Image of Pie Chart](https://github.com/Sowjan95/kingsbridge/blob/gh-pages/FIGURE%201.png)
 
 
