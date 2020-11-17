@@ -2,7 +2,7 @@
 
 ### Demographics 
 
-ZIP Code: 10463 
+**ZIP Code: 10463** 
 
 71,360 Population 
 
@@ -91,6 +91,27 @@ The three most important qualities when ranking Airbnb bookings in the Bronx Tea
 
 **Attractions/Activities: A** (Has an urban city feel with good outside spaces, proximity to bars, restaurants, parks, etc. and has nice views.)
 
+### Individual Data Analysis 
+
+  Similarly to the group analysis, I began by cleaning the data, and deciding what specifically I wanted to look at in my code. I began playing around with describe() and value_counts() functions, and other printing functions, before I decided to start by simply looking at how many listings each of the four neighborhoods that my group is working with has. As it turns out, Kingsbridge had the highest number of listings in my_bronx, which is what I referred to the four neighborhoods in my code. I was even more pleasantly surprised, however, when I found that Kingsbridge actually had the highest number of listings in all of the Bronx neighborhoods. 
+
+  Below are the printed neighborhood listing statistics for my_bronx and bronx: 
+  
+
+
+```stats for listings in my_bronx:
+count             225
+unique              4
+top       Kingsbridge
+freq               70
+Name: neighbourhood, dtype: object
+stats for listings in bronx:
+count            1091
+unique             48
+top       Kingsbridge
+freq               70
+Name: neighbourhood, dtype: object
+```
 
 
 
