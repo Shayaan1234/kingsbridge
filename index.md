@@ -142,8 +142,10 @@ Afterwards, I decided to compare the prices of the listings in the neighborhood 
 
 **Figure 3.1** 
 
-![Figure 3.1](FIGURE 3.1.png){:height="50%" width="50%" float: left;} ![Figure 3.2](FIGURE 3.2.png){:height="50%" width="50%" float: right;}
-![Figure 3.3](FIGURE 3.3.png){:height="50%" width="50%"} ![Figure 3.4](FIGURE 3.4.png){:height="50%" width="50%"}
+![Figure 3.1](FIGURE 3.1.png){:height="45%" width="45%"} 
+![Figure 3.2](FIGURE 3.2.png){:height="45%" width="45%"}
+![Figure 3.3](FIGURE 3.3.png){:height="50%" width="50%"} 
+![Figure 3.4](FIGURE 3.4.png){:height="50%" width="50%"}
 
 This data shows that, although each of our neighborhoods have several outliers that throw their total sums and means off balance, they are all very similar in the prices that they have. This seems like a direct reflection of the rankings we did for them in HC3, where, although each neighborhood varied in their rankings for each category by some small detail (some got B for Transportation while others got B+), they were all very similar together, always having the same letter grade even if the + and - differed. Similarly, here, the majority of the prices seem to fall somewhere between 25 and 100, with the median being close to either 50 or 75. The outliers, on the other hand, vary quite a bit. While Concourse and Fordham have outliers that stay at or below 250, Kingsbridge’s outliers go up to 400, while Allerton surpasses even that.
 
