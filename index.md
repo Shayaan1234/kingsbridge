@@ -14,13 +14,13 @@
 
 39.8 Median Age 
 
-Under 18: 21.03% 
+- Under 18: 21.03% 
 
-18 to 34: 22.84% 
+- 18 to 34: 22.84% 
 
-35 to 64: 36.38% 
+- 35 to 64: 36.38% 
 
-65 and over: 19.78%
+- 65 and over: 19.78%
 
 ### Sex, Race, and Ethnicity
 
@@ -44,30 +44,30 @@ Other: 2.45%
 
 95.69% Occupied 
 
-Owner Occupied: 32.14% 
+- Owner Occupied: 32.14% 
 
-Renter Occupied: 67.86% 
+- Renter Occupied: 67.86% 
 
 4.31% Vacant 
 
-For Rent: 25.64% 
+- For Rent: 25.64% 
 
-For Sale: 9.99% 
+- For Sale: 9.99% 
 
-Other: 64.37%
+- Other: 64.37%
 
 ### Housing Unit Structure
 
 1954 Median Year Structure Built 
 
-Single Unit: 5.34% 
+- Single Unit: 5.34% 
 
-Multi Unit: 94.44% 
+- Multi Unit: 94.44% 
 
-Mobile Home: 0.19% 
+- Mobile Home: 0.19% 
 
 
-Airbnb Listings in 2019: 70
+**Airbnb Listings in 2019:** 70
 
 
 ## Neighborhood Rankings 
