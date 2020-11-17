@@ -1,8 +1,10 @@
-# Kingsbridge, Bronx
-
-## Demographics 
+# Kingsbridge, Bronx 
 
 **ZIP Code: 10463** 
+
+This webpage is for the neighborhood of Kingsbridge in the Bronx Team. The following page will have demographics, statistics, maps, rankings, and data analysis of the neighborhood.
+
+## Demographics 
 
 71,360 Population 
 
