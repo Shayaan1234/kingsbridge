@@ -96,10 +96,13 @@ The three most important qualities when ranking Airbnb bookings in the Bronx Tea
   Similarly to the group analysis, I began by cleaning the data, and deciding what specifically I wanted to look at in my code. I began playing around with describe() and value_counts() functions, and other printing functions, before I decided to start by simply looking at how many listings each of the four neighborhoods that my group is working with has. As it turns out, Kingsbridge had the highest number of listings in my_bronx, which is what I referred to the four neighborhoods in my code. I was even more pleasantly surprised, however, when I found that Kingsbridge actually had the highest number of listings in all of the Bronx neighborhoods. 
 
   Below are the printed neighborhood listing statistics for my_bronx and bronx: 
-  
+ 
 
 
-```stats for listings in my_bronx:
+
+```markdown
+
+stats for listings in my_bronx:
 count             225
 unique              4
 top       Kingsbridge
@@ -111,9 +114,6 @@ unique             48
 top       Kingsbridge
 freq               70
 Name: neighbourhood, dtype: object
-```
-
-
 
 You can use the [editor on GitHub](https://github.com/Sowjan95/kingsbridge/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -123,7 +123,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
+
 Syntax highlighted code block
 
 # Header 1
