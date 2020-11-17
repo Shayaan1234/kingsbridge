@@ -1,9 +1,7 @@
-## Kingsbridge, Bronx
-### ZIP Code: 10463
+## Kingsbridge, Bronx 
+ZIP Code: 10463
 
- 
-
-**Demographics** 
+### Demographics 
 
 71,360 Population 
 
@@ -11,7 +9,7 @@
 
 49,208.93 People per square mile
 
-**Age** 
+### Age 
 
 39.8 Median Age 
 
@@ -23,7 +21,7 @@ Under 18: 21.03%
 
 65 and over: 19.78%
 
-**Sex, Race, and Ethnicity** 
+### Sex, Race, and Ethnicity
 
 Male: 47.14% 
 
@@ -39,7 +37,7 @@ Asian: 3.61%
 
 Other: 2.45%
 
-**Units & Occupancy**
+### Units & Occupancy
 
 29,973 Housing Units 
 
@@ -57,7 +55,7 @@ For Sale: 9.99%
 
 Other: 64.37%
 
-**Housing Unit Structure**
+### Housing Unit Structure
 
 1954 Median Year Structure Built 
 
