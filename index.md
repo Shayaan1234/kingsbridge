@@ -139,14 +139,22 @@ However, I then found out that Allerton actually had a larger area than Kingsbri
 
 Afterwards, I decided to compare the prices of the listings in the neighborhood to see if prices reflected the number of listings and it seems that it did. Kingsbridge had the highest sum of prices while Allerton had the lowest. However, Concourse and Fordham had sums that were very near each other, even though the number of listings they had didn’t seem as close. I made boxplots for each neighborhood as well to see if their prices (min, max, mean, etc.) are similar to each other as well.
 
+![Figure 3.1](FIGURE 3.1.png)
+![Figure 3.2](FIGURE 3.2.png)
+![Figure 3.3](FIGURE 3.3.png)
+![Figure 3.4](FIGURE 3.4.png)
 
 **Figure 3.1** 
 
 This data shows that, although each of our neighborhoods have several outliers that throw their total sums and means off balance, they are all very similar in the prices that they have. This seems like a direct reflection of the rankings we did for them in HC3, where, although each neighborhood varied in their rankings for each category by some small detail (some got B for Transportation while others got B+), they were all very similar together, always having the same letter grade even if the + and - differed. Similarly, here, the majority of the prices seem to fall somewhere between 25 and 100, with the median being close to either 50 or 75. The outliers, on the other hand, vary quite a bit. While Concourse and Fordham have outliers that stay at or below 250, Kingsbridge’s outliers go up to 400, while Allerton surpasses even that.
 
+![Figure 3.5](FIGURE 3.5.png) 
+
 **Figure 3.2** 
 
 Now, if we compare that to the prices of listings in all the Bronx neighborhoods, I think they are still quite similar. Although this box plot has a great y-axis range, the majority of the prices still seem to fall somewhere close to 100. The outliers are the ones skewing the data to make it look like all the listings are more expensive, when in fact only a handful of them are (relative to the `my_bronx` neighborhood prices).
+
+![Figure 4](FIGURE 4.png)
 
 **Figure 4** 
 
