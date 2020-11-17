@@ -70,7 +70,7 @@ Mobile Home: 0.19%
 Airbnb Listings in 2019: 70
 
 
-## Neighborhood Rankings 
+### Neighborhood Rankings 
 
 The three most important qualities when ranking Airbnb bookings in the Bronx Team: 
 
