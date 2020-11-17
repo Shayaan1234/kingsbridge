@@ -1,7 +1,8 @@
 ## Kingsbridge, Bronx 
-## ZIP Code: 10463
 
 ### Demographics 
+
+ZIP Code: 10463 
 
 71,360 Population 
 
