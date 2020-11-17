@@ -69,7 +69,7 @@ Other: 2.45%
 
 **Highlighted Map of Kingsbridge** 
 
-![Highlighted Map](src)
+![Highlighted Map](highlighted_map.png)
 
 
 **Airbnb Listings in 2019:** 70
