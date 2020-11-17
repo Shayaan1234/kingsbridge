@@ -93,9 +93,9 @@ The three most important qualities when ranking Airbnb bookings in the Bronx Tea
 
 ## Individual Data Analysis 
 
-  Similarly to the group analysis, I began by cleaning the data, and deciding what specifically I wanted to look at in my code. I began playing around with `describe()` and ```value_counts()``` functions, and other printing functions, before I decided to start by simply looking at how many listings each of the four neighborhoods that my group is working with has. As it turns out, Kingsbridge had the highest number of listings in my_bronx, which is what I referred to the four neighborhoods in my code. I was even more pleasantly surprised, however, when I found that Kingsbridge actually had the highest number of listings in all of the Bronx neighborhoods. 
+Similarly to the group analysis, I began by cleaning the data, and deciding what specifically I wanted to look at in my code. I began playing around with `describe()` and ```value_counts()``` functions, and other printing functions, before I decided to start by simply looking at how many listings each of the four neighborhoods that my group is working with has. As it turns out, Kingsbridge had the highest number of listings in my_bronx, which is what I referred to the four neighborhoods in my code. I was even more pleasantly surprised, however, when I found that Kingsbridge actually had the highest number of listings in all of the Bronx neighborhoods. 
 
-  Below are the printed neighborhood listing statistics for my_bronx and bronx: 
+Below are the printed neighborhood listing statistics for my_bronx and bronx: 
  
 
 ```
@@ -139,6 +139,7 @@ Now, if we compare that to the prices of listings in all the Bronx neighborhoods
 **Figure 4** 
 
 Finally, I decided to also compare the total number of reviews in each neighborhood. Since Kingsbridge had the greatest number of listings, I expected it to also have the most reviews, but instead Allerton took that trophy. Of course, we have no way of knowing whether these are good reviews or bad reviews, and whether or not the abundance of reviews came from simply one or two very popular listings in Allerton, so it’s hard to know why this is the case. 
+
 Looking further, we also see that the number of reviews that Kingsbridge had was smaller than Concourse, which had the second smallest number of listings. Again, although there is no real way of knowing for sure, since Concourse scored the lowest for safety in HC3, there is a possibility that some of the reviews might mention safety concerns.
 
 
