@@ -129,7 +129,7 @@ Name: neighbourhood, dtype: object
 
 I decided to make a graph to visualize to visually see the percentage of the listings that are in Kingsbridge, compared to the other neighborhoods in `my_bronx`.
 
-**Figure 1:** Pie Chart Comparing Listing Percentages
+**Figure 1:** _Pie Chart Comparing Listing Percentages_
 
 ![Figure 1](FIGURE 1.png) 
 
