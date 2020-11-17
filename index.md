@@ -3,14 +3,16 @@
 
  
 
-**Demographics**
+**Demographics** 
+
 71,360 Population 
 
 1.45 Square Miles 
 
 49,208.93 People per square mile
 
-**Age**
+**Age** 
+
 39.8 Median Age 
 
 Under 18: 21.03% 
@@ -21,7 +23,8 @@ Under 18: 21.03%
 
 65 and over: 19.78%
 
-**Sex, Race, and Ethnicity**
+**Sex, Race, and Ethnicity** 
+
 Male: 47.14% 
 
 Female: 52.86% 
