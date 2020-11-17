@@ -138,13 +138,13 @@ According to **Figure 1**, Allerton has the smallest percentage of listings in `
 However, I then found out that Allerton actually had a larger area than Kingsbridge (2.34 square miles), and had a greater population (103,732), albeit with (44,413.52 people per square mile). Therefore, it may be probable that there are fewer listings because the houses and apartments are more spread out, but then again, Allerton may not have as many rent-friendly properties as Kingsbridge to begin with. After all, out of the 29,973 housing units available in Kingsbridge, 67.86% of the occupied units are renter-occupied, while 90.01%  of the vacant units are either for rent or for some other purpose (HC2). Of course, we have no data that shows how many of these vacancies are reserved for airbnb, but they are still interesting to consider.
 
 
-**Figure 2:** Pie Chart Comparing Total Prices of Listings 
+**Figure 2:** _Pie Chart Comparing Total Prices of Listings_ 
 
 ![Figure 2](FIGURE 2.png) 
 
 Afterwards, I decided to compare the prices of the listings in the neighborhood to see if prices reflected the number of listings and it seems that it did. Kingsbridge had the highest sum of prices while Allerton had the lowest. However, Concourse and Fordham had sums that were very near each other, even though the number of listings they had didn’t seem as close. I made boxplots for each neighborhood as well to see if their prices (min, max, mean, etc.) are similar to each other as well.
 
-**Figure 3.1:** Box Plots Comparing Prices of Listings (My_Bronx Neighborhoods) 
+**Figure 3.1:** _Box Plots Comparing Prices of Listings (My_Bronx Neighborhoods)_ 
 
 ![Figure 3.1](FIGURE 3.1.png){:height="47%" width="47%"} 
 ![Figure 3.2](FIGURE 3.2.png){:height="47%" width="47%"}
@@ -154,13 +154,13 @@ Afterwards, I decided to compare the prices of the listings in the neighborhood 
 **Figure 3.1** shows that, although each of our neighborhoods have several outliers that throw their total sums and means off balance, they are all very similar in the prices that they have. This seems like a direct reflection of the rankings we did for them in HC3, where, although each neighborhood varied in their rankings for each category by some small detail (some got B for Transportation while others got B+), they were all very similar together, always having the same letter grade even if the + and - differed. Similarly, here, the majority of the prices seem to fall somewhere between 25 and 100, with the median being close to either 50 or 75. The outliers, on the other hand, vary quite a bit. While Concourse and Fordham have outliers that stay at or below 250, Kingsbridge’s outliers go up to 400, while Allerton surpasses even that.
 
 
-**Figure 3.2:** Box Plot Comparing Prices (All Bronx Neighborhoods) 
+**Figure 3.2:** _Box Plot Comparing Prices (All Bronx Neighborhoods)_ 
 
 ![Figure 3.5](FIGURE 3.5.png) 
 
 Now, if we compare that to the prices of listings in all the Bronx neighborhoods, I think they are still quite similar. Although this box plot has a great y-axis range, the majority of the prices still seem to fall somewhere close to 100. The outliers are the ones skewing the data to make it look like all the listings are more expensive, when in fact only a handful of them are (relative to the `my_bronx` neighborhood prices).
 
-**Figure 4:** Pie Chart Comparing Total Reviews  
+**Figure 4:** _Pie Chart Comparing Total Reviews_  
 
 ![Figure 4](FIGURE 4.png)
 
