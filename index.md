@@ -125,13 +125,15 @@ Name: neighbourhood, dtype: object
 
 I decided to make a graph to visualize to visually see the percentage of the listings that are in Kingsbridge, compared to the other neighborhoods in `my_bronx`.
 
-![Highlighted Map](FIGURE 1.png) 
+![Figure 1](FIGURE 1.png) 
 
 **Figure 1**
 
 According to this graph, Allerton has the smallest percentage of listings in `my_bronx`. My first hypothesis for this was that Allerton covered a smaller area, compared to the Kingbridge, since Kingsbridge covers 1.45 square miles, with 49,208.93 people per square mile, which gives it a population of 71,360 (HC2). 
 
 However, I then found out that Allerton actually had a larger area than Kingsbridge (2.34 square miles), and had a greater population (103,732), albeit with (44,413.52 people per square mile). Therefore, it may be probable that there are fewer listings because the houses and apartments are more spread out, but then again, Allerton may not have as many rent-friendly properties as Kingsbridge to begin with. After all, out of the 29,973 housing units available in Kingsbridge, 67.86% of the occupied units are renter-occupied, while 90.01%  of the vacant units are either for rent or for some other purpose (HC2). Of course, we have no data that shows how many of these vacancies are reserved for airbnb, but they are still interesting to consider.
+
+![Figure 2](FIGURE 2.png) 
 
 **Figure 2** 
 
