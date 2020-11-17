@@ -65,7 +65,12 @@ Other: 2.45%
 - Mobile Home: 0.19% 
 
 
-## Map of Airbnb Listings in Kingsbridge
+## Map of Kingsbridge
+
+**Highlighted Map of Kingsbridge** 
+
+![Highlighted Map](src)
+
 
 **Airbnb Listings in 2019:** 70
 
