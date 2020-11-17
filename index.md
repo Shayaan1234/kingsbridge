@@ -70,6 +70,24 @@ Mobile Home: 0.19%
 Airbnb Listings in 2019: 70
 
 
+## Neighborhood Rankings 
+
+The three most important qualities when ranking Airbnb bookings in the Bronx Team: 
+
+**Safety** (low crime rate)
+**Transportation** (accessibility to & reliability of public transportation, ease of parking)
+**Attraction/Activities** (availability of local attractions and recreational activities such as restaurants, parks, etc.)
+
+**Kingsbridge Ranking** 
+
+**_Overall Niche Grade: B_**
+**Safety: C** (Relatively low crime rate, but higher than national rate of crime per 100,000 residents for assault and robbery.)
+**Transportation: B+** (Ease of parking, and public transportation is available and accessible but some reviews have mentioned that it can be unreliable at times with long commutes, delays, etc.)
+**Attractions/Activities: A** (Has an urban city feel with good outside spaces, proximity to bars, restaurants, parks, etc. and has nice views.)
+
+
+
+
 You can use the [editor on GitHub](https://github.com/Sowjan95/kingsbridge/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
