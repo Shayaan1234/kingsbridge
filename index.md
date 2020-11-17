@@ -98,7 +98,7 @@ Syntax highlighted code block
 
 
 Inline-style: 
-![alt text](https://github.com/Sowjan95/kingsbridge/blob/gh-pages/FIGURE%201.png "Logo Title Text 1")
+![Image of Pie Chart](https://github.com/Sowjan95/kingsbridge/blob/gh-pages/FIGURE%201.png)
 
 
 
