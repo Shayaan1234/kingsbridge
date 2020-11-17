@@ -4,44 +4,66 @@
  
 
 **Demographics**
-71,360 Population	
-1.45 Square Miles
+71,360 Population 
+
+1.45 Square Miles 
+
 49,208.93 People per square mile
 
 **Age**
-39.8 Median Age
-Under 18: 21.03%
-18 to 34: 22.84%
-35 to 64: 36.38%
+39.8 Median Age 
+
+Under 18: 21.03% 
+
+18 to 34: 22.84% 
+
+35 to 64: 36.38% 
+
 65 and over: 19.78%
 
 **Sex, Race, and Ethnicity**
-Male: 47.14%
-Female: 52.86%
-White: 31.65%
-Hispanic: 51.11%
-Black: 11.18%
-Asian: 3.61%
+Male: 47.14% 
+
+Female: 52.86% 
+
+White: 31.65% 
+
+Hispanic: 51.11% 
+
+Black: 11.18% 
+
+Asian: 3.61% 
+
 Other: 2.45%
 
 **Units & Occupancy**
 
-29,973 Housing Units
+29,973 Housing Units 
 
-95.69% Occupied
-Owner Occupied: 32.14%
-Renter Occupied: 67.86%
-4.31% Vacant
-For Rent: 25.64%
-For Sale: 9.99%
+95.69% Occupied 
+
+Owner Occupied: 32.14% 
+
+Renter Occupied: 67.86% 
+
+4.31% Vacant 
+
+For Rent: 25.64% 
+
+For Sale: 9.99% 
+
 Other: 64.37%
 
 **Housing Unit Structure**
 
-1954 Median Year Structure Built
-Single Unit: 5.34%
-Multi Unit: 94.44%
-Mobile Home: 0.19%	
+1954 Median Year Structure Built 
+
+Single Unit: 5.34% 
+
+Multi Unit: 94.44% 
+
+Mobile Home: 0.19% 
+
 
 Airbnb Listings in 2019: 70
 
