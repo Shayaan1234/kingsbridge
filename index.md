@@ -139,11 +139,10 @@ However, I then found out that Allerton actually had a larger area than Kingsbri
 
 Afterwards, I decided to compare the prices of the listings in the neighborhood to see if prices reflected the number of listings and it seems that it did. Kingsbridge had the highest sum of prices while Allerton had the lowest. However, Concourse and Fordham had sums that were very near each other, even though the number of listings they had didn’t seem as close. I made boxplots for each neighborhood as well to see if their prices (min, max, mean, etc.) are similar to each other as well.
 
-<img src="Figure 3.1.png" alt="Figure 3.1" height="320" width="240">
 ![Figure 3.1](FIGURE 3.1.png){:height="50%" width="50%"}
-![Figure 3.2](FIGURE 3.2.png)
-![Figure 3.3](FIGURE 3.3.png)
-![Figure 3.4](FIGURE 3.4.png)
+![Figure 3.2](FIGURE 3.2.png){:height="50%" width="50%"}
+![Figure 3.3](FIGURE 3.3.png){:height="50%" width="50%"}
+![Figure 3.4](FIGURE 3.4.png){:height="50%" width="50%"}
 
 **Figure 3.1** 
 
