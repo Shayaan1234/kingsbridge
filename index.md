@@ -168,5 +168,5 @@ Finally, I decided to also compare the total number of reviews in each neighborh
 
 Looking further, we also see that the number of reviews that Kingsbridge had was smaller than Concourse, which had the second smallest number of listings. Again, although there is no real way of knowing for sure, since Concourse scored the lowest for safety in HC3, there is a possibility that some of the reviews might mention safety concerns. 
 
-### Thanks for checking out Kingsbridge! [Click here to head back to the Bronx, and choose another neighborhood.](https://jessicalrsparacio.github.io/TheBronx/#the-breakdown)
+##### Thanks for checking out Kingsbridge! [Click here to head back to the Bronx, and choose another neighborhood.](https://jessicalrsparacio.github.io/TheBronx/#the-breakdown)
 
