@@ -166,5 +166,7 @@ Now, if we compare that to the prices of listings in all the Bronx neighborhoods
 
 Finally, I decided to also compare the total number of reviews in each neighborhood. Since Kingsbridge had the greatest number of listings, I expected it to also have the most reviews, but instead Allerton took that trophy. Of course, we have no way of knowing whether these are good reviews or bad reviews, and whether or not the abundance of reviews came from simply one or two very popular listings in Allerton, so it’s hard to know why this is the case. 
 
-Looking further, we also see that the number of reviews that Kingsbridge had was smaller than Concourse, which had the second smallest number of listings. Again, although there is no real way of knowing for sure, since Concourse scored the lowest for safety in HC3, there is a possibility that some of the reviews might mention safety concerns.
+Looking further, we also see that the number of reviews that Kingsbridge had was smaller than Concourse, which had the second smallest number of listings. Again, although there is no real way of knowing for sure, since Concourse scored the lowest for safety in HC3, there is a possibility that some of the reviews might mention safety concerns. 
+
+### Thanks for checking out Kingsbridge! [Click here to head back to the Bronx, and choose another neighborhood.](https://jessicalrsparacio.github.io/TheBronx/#the-breakdown)
 
